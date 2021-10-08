@@ -1,0 +1,17 @@
+@media screen and (max-width:600px) {
+
+    .container{
+        height: 90vh;
+        box-shadow: none;
+        margin-right: 0px;
+    }
+    .box{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        height: 100%;
+    }
+    .footer{
+       
+    }
+}
